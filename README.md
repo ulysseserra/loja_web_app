@@ -1,2 +1,2 @@
 # loja_web_app
-Loja web app com Thymeleaf e Bootstrap - Java , banco de dados MariaDB SprinData SpringBoot
+Loja web app com Thymeleaf e Bootstrap - Java , banco de dados MariaDB SpringData SpringBoot
